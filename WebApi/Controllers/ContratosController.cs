@@ -57,9 +57,7 @@ namespace WebApi.Controllers
 		{
 			try
 			{
-				Console.WriteLine("id de contrato: "+id);
 				Contrato result = await contexto.Contratos.Include(c => c.Lugar).Include(c => c.Vive).SingleOrDefaultAsync(x => x.IdInmueble == id);
-				Console.WriteLine("contrato: "+result.IdContrato+" "+result.MontoAlquiler);
 				return Ok(result);
 			}
 			catch (Exception ex)
