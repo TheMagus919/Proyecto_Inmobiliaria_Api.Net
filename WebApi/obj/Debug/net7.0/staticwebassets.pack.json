@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\agust\\OneDrive\\Escritorio\\Nueva carpeta\\Desarrollo de Software\\3° año\\LAB3\\WebApi\\wwwroot\\uploads\\fotosInmuebles\\4224141Inmu14.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\fotosInmuebles\\4224141Inmu14.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\agust\\OneDrive\\Escritorio\\Nueva carpeta\\Desarrollo de Software\\3° año\\LAB3\\WebApi\\wwwroot\\uploads\\fotosInmuebles\\42278146Inmu13.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\fotosInmuebles\\42278146Inmu13.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\agust\\OneDrive\\Escritorio\\Nueva carpeta\\Desarrollo de Software\\3° año\\LAB3\\WebApi\\wwwroot\\uploads\\fotosInmuebles\\inmueble1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fotosInmuebles\\inmueble1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agust\\OneDrive\\Escritorio\\Nueva carpeta\\Desarrollo de Software\\3° año\\LAB3\\WebApi\\wwwroot\\uploads\\fotosInmuebles\\inmueble2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fotosInmuebles\\inmueble2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agust\\OneDrive\\Escritorio\\Nueva carpeta\\Desarrollo de Software\\3° año\\LAB3\\WebApi\\wwwroot\\uploads\\fotosInmuebles\\inmueble3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fotosInmuebles\\inmueble3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agust\\OneDrive\\Escritorio\\Nueva carpeta\\Desarrollo de Software\\3° año\\LAB3\\WebApi\\wwwroot\\uploads\\fotosInmuebles\\inmueble4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fotosInmuebles\\inmueble4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agust\\OneDrive\\Escritorio\\Nueva carpeta\\Desarrollo de Software\\3° año\\LAB3\\WebApi\\wwwroot\\uploads\\fotosInmuebles\\inmueble5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fotosInmuebles\\inmueble5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\agust\\OneDrive\\Escritorio\\Nueva carpeta\\Desarrollo de Software\\3° año\\LAB3\\WebApi\\wwwroot\\uploads\\fotosPropietarios\\juan.png",
+      "PackagePath": "staticwebassets\\uploads\\fotosPropietarios\\juan.png"
+    },
+    {
+      "Id": "C:\\Users\\agust\\OneDrive\\Escritorio\\Nueva carpeta\\Desarrollo de Software\\3° año\\LAB3\\WebApi\\wwwroot\\uploads\\fotosPropietarios\\sonia.png",
+      "PackagePath": "staticwebassets\\uploads\\fotosPropietarios\\sonia.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApi.props",
+      "PackagePath": "build\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApi.props",
+      "PackagePath": "buildTransitive\\WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
